@@ -1,2 +1,2 @@
 # sample-repo2
-git練習
+更新
